@@ -32,27 +32,27 @@
 * Any software application that needs backend DB. (Dynamic web-apps/Mobile/Desktop Apps)
 
 ### Screenshots
-#### Index page.
+* #### Index page.
 ![index](https://user-images.githubusercontent.com/98151317/150496822-abdd1c06-f44b-4da2-978b-3127bea091c8.png)
 
-#### Create page.
+* #### Create page.
 ![create](https://user-images.githubusercontent.com/98151317/150497124-d592664c-7730-49dc-a04f-c0671bbb3e43.png)
 
-#### Delete page.
+* #### Delete page.
 ![delete](https://user-images.githubusercontent.com/98151317/150497273-070c7a91-6104-4f30-a868-853883a7c2f2.png)
 
-#### Update page.
+* #### Update page.
 ![update](https://user-images.githubusercontent.com/98151317/150497432-0c4a2310-d7c5-40db-b381-a9e2268a713f.png)
 
-#### Dashboard.
+* #### Dashboard.
 ![dashboard](https://user-images.githubusercontent.com/98151317/150497884-1523649b-6ecf-46e4-b2a5-9b7c1990d131.png)
 
-#### Student info.
+* #### Student info.
 ![student info](https://user-images.githubusercontent.com/98151317/150497962-775894ab-dc49-457b-ac6e-17772815aeae.png)
 
-#### Student info after deletion. 
+* #### Student info after deletion. 
 ![after deletion](https://user-images.githubusercontent.com/98151317/150502694-20e61661-890d-4cc4-8cf5-a43b37843732.png)
 
-#### Student info after update.
+* #### Student info after update.
 ![after update](https://user-images.githubusercontent.com/98151317/150502822-836551b8-07e8-4b6f-8384-c44e6ceed21c.png)
 
